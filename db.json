@@ -1,0 +1,69 @@
+{
+  "profesores": [
+    {
+      "nombre": "raul",
+      "apellido": "montes",
+      "materias": [
+        {
+          "nombre": "nodejs"
+        },
+        {
+          "nombre": "angular"
+        },
+        {
+          "nombre": "react"
+        }
+      ],
+      "id": "a66e"
+    },
+    {
+      "0": {
+        "nombre": "Ruben",
+        "apellido": "Kapa",
+        "materias": [
+          {
+            "nombre": "laravel"
+          },
+          {
+            "nombre": "c++"
+          }
+        ]
+      },
+      "id": "1c3b"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Pedro",
+      "apellido": "marin",
+      "promedio": 8.2,
+      "id": "4772"
+    },
+    {
+      "nombre": "maria",
+      "apellido": "maroyun",
+      "promedio": 9.5,
+      "id": "63c3"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJs cero",
+      "duracion": 8,
+      "nivel": "avanzado",
+      "id": "bfe6"
+    },
+    {
+      "nombre": "Angular cero",
+      "duracion": 7,
+      "nivel": "medio",
+      "id": "a09c"
+    },
+    {
+      "nombre": "NodeJs cero",
+      "duracion": 8,
+      "nivel": "basico",
+      "id": "326f"
+    }
+  ]
+}
